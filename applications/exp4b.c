@@ -5,7 +5,7 @@
 #define MAX 100
 
 typedef struct {
-    int src, dest, cost;
+    int src , dest, cost;
 } Edge;
 
 int parent[MAX];
